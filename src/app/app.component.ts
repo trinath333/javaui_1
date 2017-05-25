@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  legend ='trinath';
+  legend ='Trinath';
   title = 'Tour of Heros ';
    hero = 'Windstorm';
 
